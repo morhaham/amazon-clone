@@ -1,3 +1,11 @@
+# Amazon Clone 🔥
+
+## Technologies
+
+- ReactJS
+- Firebase's firestore for database functionality
+- Firebase's cloud functions as a backend solution ☁️
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -30,6 +38,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+### `npm run deploy`
+
+**Note: this one added by the developer(me).** \
+this will fire `npm run build` and `firestore deploy`.
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 

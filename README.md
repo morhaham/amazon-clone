@@ -6,6 +6,10 @@
 - Firebase's firestore for database functionality
 - Firebase's cloud functions as a backend solution ☁️
 
+## Demo App:
+
+https://clone-968fd.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

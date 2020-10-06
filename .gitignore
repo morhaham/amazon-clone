@@ -5,8 +5,8 @@
 /.pnp
 .pnp.js
 
-# backend
-/functions
+# backend private api keys
+/functions/.env
 
 # testing
 /coverage
